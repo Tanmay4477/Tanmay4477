@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanmay4477
+- 👋 Hi, I’m Tanmay
 - 👀 I’m interested in creating scalable products and systems
 - 🌱 I’m currently working with fastapi and python
 - 📫 How to reach me - +91 7065339197
