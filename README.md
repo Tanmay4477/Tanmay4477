@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanmay4477
 - 👀 I’m interested in creating scalable products and systems
-- 🌱 I’m currently learning fastapi and python
+- 🌱 I’m currently working with fastapi and python
 - 📫 How to reach me - +91 7065339197
 - ⚡ Fun fact: I love to dance, mimik, create videos, songs and obviously my girlfriend too
 
