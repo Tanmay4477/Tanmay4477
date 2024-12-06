@@ -28,16 +28,24 @@ Feel free to reach out to me anytime:
 
 ## 🌟 Fun Extras
 
-![Dancing Animation]([https://tinyurl.com/tanmay4477])
-I’m always up for a good laugh, a great dance, and innovative collaborations. Let’s create something awesome together!
+![Dancing Animation](https://tinyurl.com/tanmay4477)  
+I’m always up for a good laugh, a great dance, and innovative collaborations. Let’s create something awesome together! 
 
 ---
 
 ### 💻 Technologies I’m Loving
 
-- 🐍 Python  
-- ⚡ FastAPI  
-- 🛠️ Building APIs and scalable backend systems
+#### 🐍 Python
+![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+
+#### ⚡ FastAPI
+![FastAPI](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
+#### 🟢 Node.js
+![Node.js](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
+
+#### 🟦 TypeScript
+![TypeScript](https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif)
 
 ---
 
