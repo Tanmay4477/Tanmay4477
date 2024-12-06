@@ -27,23 +27,6 @@ Feel free to reach out to me anytime:
 
 ---
 
-### 💻 Technologies I’m Loving
+![🚀 Let’s Connect](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)
 
-#### 🐍 Python
-![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-
-#### ⚡ FastAPI
-![FastAPI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARlRcY6IEe8rHKKvXr7tJATNJAij7ZceW0w&s)
-
-#### 🟢 Node.js
-![Node.js](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)
-
-#### 🟦 TypeScript
-![TypeScript]()
-
----
-
-### 🚀 Let’s Connect
-
-Collaboration and creativity are at the heart of my work. Reach out for exciting projects, brainstorming, or just to say hi!
 
