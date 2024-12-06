@@ -24,12 +24,6 @@ Feel free to reach out to me anytime:
 - 🌐 [LinkedIn](https://linkedin.com/in/tanmay-jain5)  
 - ✉️ [Email Me](mailto:tanmayjain4477@gmail.com)
 
----
-
-## 🌟 Fun Extras
-
-![Dancing Animation](https://tinyurl.com/tanmay4477)  
-I’m always up for a good laugh, a great dance, and innovative collaborations. Let’s create something awesome together! 
 
 ---
 
