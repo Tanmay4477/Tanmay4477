@@ -28,7 +28,7 @@ Feel free to reach out to me anytime:
 
 ## 🌟 Fun Extras
 
-![Dancing Animation](https://tinyurl.com/tanmay4477)
+![Dancing Animation]([https://tinyurl.com/tanmay4477])
 I’m always up for a good laugh, a great dance, and innovative collaborations. Let’s create something awesome together!
 
 ---
