@@ -36,10 +36,10 @@ Feel free to reach out to me anytime:
 ![FastAPI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARlRcY6IEe8rHKKvXr7tJATNJAij7ZceW0w&s)
 
 #### 🟢 Node.js
-![Node.js](https://tinyurl.com/tanmay4477)
+![Node.js](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)
 
 #### 🟦 TypeScript
-![TypeScript](https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif)
+![TypeScript]()
 
 ---
 
