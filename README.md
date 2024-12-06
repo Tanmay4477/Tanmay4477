@@ -33,10 +33,10 @@ Feel free to reach out to me anytime:
 ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
 #### ⚡ FastAPI
-![FastAPI](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+![FastAPI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARlRcY6IEe8rHKKvXr7tJATNJAij7ZceW0w&s)
 
 #### 🟢 Node.js
-![Node.js](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
+![Node.js](https://tinyurl.com/tanmay4477)
 
 #### 🟦 TypeScript
 ![TypeScript](https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif)
