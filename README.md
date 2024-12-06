@@ -28,7 +28,7 @@ Feel free to reach out to me anytime:
 
 ## 🌟 Fun Extras
 
-![Dancing Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlwc2ZzdDQ2MDEzNWV5cjhxMDRtang3ZzUwM2UzZTN1cGlxZTloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy-downsized-large.gif)  
+![Dancing Animation](https://shorturl.at/RoqL3) 
 I’m always up for a good laugh, a great dance, and innovative collaborations. Let’s create something awesome together!
 
 ---
